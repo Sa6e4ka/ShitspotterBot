@@ -39,15 +39,22 @@
 ## 📁 Примерная структура проекта
 
 shitspotter-bot/
+
 ├── bot.py
+
 ├── config.py
+
 ├── handlers/
 │   ├── photo_handler.py
-│   └── location_handler.py
+│   └── location_handler.p
+
 ├── utils/
 │   └── api.py
+
 ├── .env
+
 ├── requirements.txt
+
 └── README.md
 
 ## 🤝 Вклад и участие
